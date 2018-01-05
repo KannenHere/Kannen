@@ -1,0 +1,13 @@
+echo off
+cls
+pause
+cls
+echo press [Any Button] to continue
+pause
+:start
+start
+start
+goto start
+pause
+cls
+exit
